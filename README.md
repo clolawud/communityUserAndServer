@@ -1,0 +1,2 @@
+# communityUserAndServer
+多人添加好友收发消息的QT项目
